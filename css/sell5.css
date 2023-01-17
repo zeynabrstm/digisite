@@ -1,0 +1,17 @@
+div.sell5{
+
+    width: 100%;
+    height: 160px;
+    box-sizing:border-box;
+    /* border:1px solid red; */
+}
+
+
+div.sell5>a>img{
+   width: 90%;
+   height: 160px;
+   border-radius: 10px;
+  margin-right: 70px;
+   text-align: center;
+   vertical-align: middle; 
+}

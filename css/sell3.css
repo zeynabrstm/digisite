@@ -1,0 +1,139 @@
+div.sell3{
+    width: 100%;
+    height: 390px;
+    /* border: 1px solid green; */
+}
+div.digiplus{
+    width: 88%;
+    height: 390px;
+    background-color:rgb(145, 3, 145);
+    border-radius: 10px;
+    margin: 0 auto;
+    vertical-align: top;
+}
+
+div.digiplus>div.left>div.top{
+    width: 30%;
+    height: auto;
+    /* border: 3px solid green; */
+    margin-right: 40px;
+   padding-top:  10px;
+}
+div.digiplus>div.left>div.top>a{
+    
+    text-decoration: none;
+}
+div.digiplus>div.left>div.top>a>p{
+    font-family: digikala;
+    font-size: 35;
+    color: white;
+    list-style: none;
+    
+   
+}
+div.digiplus>div.left>div.vije{
+    width: 100%;
+    height: auto;
+    /* border: 3px solid green; */
+    margin-right: 40px;
+}
+div.digiplus>div.left>div.vije>p{
+    font-family: body1;
+    color: white;
+    font-size: 13px;
+    padding: 5px;
+    margin-top: 5px;
+}
+div.sell3>div.digiplus>div.left{
+    width: 31%;
+/* border: 2px solid pink; */
+}
+div.sell3>div.digiplus>div.left>img{
+    display: inline-block;
+    width: 390px ;
+    /* border: 1px solid pink;  */
+}
+
+div.sell3>div.digiplus>div.left>div.user{
+   width: 30%;
+ height: 10px; 
+ text-align: right;
+ vertical-align: top;
+ margin-right: 30px;
+   /* border: 1px solid white; */
+   
+}
+    div.sell3>div.digiplus>div.left>div.user>a>p{
+  
+    margin-top: 10px;
+    border: 1px solid white;
+    border-radius: 5px;
+    color: white;
+    font-family: body1;
+    font-size:12px;
+     line-height: 10px;
+     padding: 10px;
+    
+   
+}
+div.sell3>div.digiplus>div{
+    display: inline-block;
+}
+div.sell3> div.digiplus>div.right{
+  
+    width: 67%;
+    height:370px ;
+  margin: 10px;
+    background-color: white;
+   border-radius: 10px;
+   vertical-align: top;
+}
+div.sell3>div.digiplus>div.right>div.up >div{
+    width: 47%;
+    height: 40px;
+    margin-right: 10px;
+    margin-top: 10px;
+    display: inline-block;
+    /* border: 1px solid green; */
+}
+div.sell3>div.digiplus>div.right>div.up >div.seemore{
+    width: 10%;
+    margin-right: 550px;
+}
+div.sell3>div.digiplus>div.right>div.up >div.send{
+    display: inline-block;
+    width:15% ;
+    margin-right:20px ;
+    /* border: 1px solid green; */
+}
+div.sell3>div.digiplus>div.right>div.up >div.send>p{
+    font-family: body1;
+    font-size: 15px;
+    margin-right: 20px;
+    vertical-align: top;
+ 
+}
+div.sell3>div.digiplus>div.right>div.up >div.send>span{
+   
+}
+div.sell3>div.digiplus>div.right>div.up >div.seemore>a{
+    text-decoration: none;
+    color: purple;
+    text-align: left;
+    font-family: body1;
+    font-size:12px;
+}
+div.sell3>div.digiplus>div.right >div.a>div,div.sell3>div.digiplus>div.right >div.b>div{
+    display: inline-block;
+    /* border: 1px solid gold; */
+    margin-right: 10px;
+    margin-top: 12px;
+    
+
+}
+div.sell3>div.digiplus>div.right >div>div>a>img{
+    width: 120px;
+}
+    
+
+    

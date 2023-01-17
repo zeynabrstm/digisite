@@ -1,0 +1,56 @@
+div.digiclub{
+    width: 88%;
+    height: 90px;
+    box-sizing: border-box;
+    background-color: rgb(5, 119, 155);
+    margin: 0 auto;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+ div.digiclub>div.right{
+    width: 20%;
+    /* border: 1px solid bisque; */
+    margin-right: 20px;
+
+
+ }
+ div.digiclub>div.right>a{
+    list-style: none;
+    text-decoration: none;
+    font-family: digikala;
+   font-size: 35px;
+   color: white; 
+ }
+ div.digiclub>div.left{
+   display: inline-block;
+    width: 68%;
+    height: 70px;
+    /* background-color: white; */
+    /* border: 2px solid green; */
+    margin-right: 110px;
+    
+   
+ }
+ div.digiclub>div.left,div.digiclub>div.right{
+    display: inline-block;
+    margin-top: 12px;
+ }
+ div.digiclub>div.left>div{
+
+    display: inline-block;
+    vertical-align: middle;
+    width: 32%;
+    /* border: 1px solid brown; */
+    background-color: white;
+    margin-right: 5px;
+  
+ }
+
+ div.digiclub>div.left>div>a>img{
+    width: 140px;
+    height: 65px;
+     margin-right: 133px;
+     background-color: white;
+ }
+
